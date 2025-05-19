@@ -2,7 +2,7 @@
 
 This is a simple machine learning project to predict whether a customer will leave (churn) based on their age, tenure, and gender.
 
-## What I Did
+## Project Overview
 - Preprocessed the data and handled categorical values.
 - Trained a Naive Bayes classifier.
 - Evaluated the model using accuracy.
